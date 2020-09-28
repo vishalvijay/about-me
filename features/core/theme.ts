@@ -11,6 +11,9 @@ const palette = {
     main: '#ff4c00',
     dark: '#a63302',
   },
+  background: {
+    default: '#ccd4d8',
+  },
 };
 
 export default responsiveFontSizes(
