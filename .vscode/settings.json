@@ -1,0 +1,11 @@
+{
+  "path-intellisense.extensionOnImport": true,
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "path-intellisense.mappings": {
+    "components": "${workspaceRoot}/components",
+    "features": "${workspaceRoot}/features",
+    "utils": "${workspaceRoot}/utils",
+    "types": "${workspaceRoot}/types",
+    "services": "${workspaceRoot}/services",
+  }
+}
