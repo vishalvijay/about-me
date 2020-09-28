@@ -6,7 +6,7 @@ interface HeadProps {
   title?: string;
 }
 
-const appName = "Zelish What's Cooking - Recipe Contest";
+const appName = 'About Vishal';
 
 const Head: React.FC<HeadProps> = ({ title }) => {
   const newTitle = [title, appName].filter((s) => !!s).join(' - ');
@@ -16,7 +16,7 @@ const Head: React.FC<HeadProps> = ({ title }) => {
       <title>{newTitle}</title>
       <meta
         name="description"
-        content="Are you a lockdown chef or recipe vlogger? Here is your chance to showcase your culinary skills. Participate in Zelish’s 1 min Recipe Contest"
+        content="Fullstack Engineer - #ruby #rails #node #typescript #javascript #react #android"
       />
       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
       <link rel="icon" href="/favicon.ico" type="image/x-icon" />
