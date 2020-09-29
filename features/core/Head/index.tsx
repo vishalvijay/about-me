@@ -16,7 +16,7 @@ const Head: React.FC<HeadProps> = ({ title }) => {
       <title>{newTitle}</title>
       <meta
         name="description"
-        content="Fullstack Engineer - #ruby #rails #node #typescript #javascript #react #android"
+        content="Fullstack Engineer - #ruby #rails #nodejs #react #android #typescript"
       />
       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
       <link rel="icon" href="/favicon.ico" type="image/x-icon" />
