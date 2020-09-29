@@ -73,7 +73,6 @@ const Home: React.FC = () => {
           </Typography>
           <Box display="flex" mt={2}>
             <Link
-              naked
               href="https://github.com/vishalvijay"
               target="_blank"
               rel="noopener noreferrer"
@@ -82,7 +81,6 @@ const Home: React.FC = () => {
             </Link>
             &nbsp; &nbsp;
             <Link
-              naked
               href="https://twitter.com/0vishalvijay0"
               target="_blank"
               rel="noopener noreferrer"
@@ -91,7 +89,6 @@ const Home: React.FC = () => {
             </Link>
             &nbsp; &nbsp;
             <Link
-              naked
               href="https://www.linkedin.com/in/0vishalvijay0/"
               target="_blank"
               rel="noopener noreferrer"
@@ -100,7 +97,6 @@ const Home: React.FC = () => {
             </Link>
             &nbsp; &nbsp;
             <Link
-              naked
               href="https://stackoverflow.com/users/1866804/vishal-vijay"
               target="_blank"
               rel="noopener noreferrer"
