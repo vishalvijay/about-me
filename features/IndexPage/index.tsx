@@ -63,7 +63,6 @@ const Home: React.FC = () => {
           <Typography variant="body2">
             Reach me @ &nbsp;
             <Link
-              naked
               href="mailto:hi@vishalvijay.me"
               target="_blank"
               rel="noopener noreferrer"
