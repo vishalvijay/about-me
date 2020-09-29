@@ -9,7 +9,7 @@ const Home: React.FC = () => (
     <Box mt={{ xs: 4, sm: 8, md: 10 }} py={3}>
       <AboutMe />
     </Box>
-    <Box mb={6} mt={3}>
+    <Box mb={5} mt={{ xs: 1, sm: 2, md: 3 }}>
       <MyWriteUps />
     </Box>
   </BaseLayout>
