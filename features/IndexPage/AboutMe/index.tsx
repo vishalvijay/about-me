@@ -49,11 +49,19 @@ const AboutMe: React.FC = () => {
           </span>
         </Typography>
         <Typography variant="subtitle2" gutterBottom>
-          Full-stack engineer with 7+ years of experience building world
-          changing products
+          10x engineer, entrepreneur, and mentor with 7+ years of solid
+          experience building consumer-facing software. Skilled in cloud
+          computing, scaling the infrastructure, and full-stack
+          RoR/Node.js/React/Android. Expert in creating scalable systems from
+          scratch.
         </Typography>
         <Typography variant="caption">
-          #ruby #rails #nodejs #react #android #typescript
+          #rubyonrails #nodejs #reactjs #android #ruby #typescript #javascript
+          #java #kotlin #mysql #postgressql #mongodb #firestore #graphql #html
+          #css #redux #nextjs #drools #firebase #aws #gcp #solr #elasticsearch
+          #redis #expressjs #webcomponent #microservices #grpc #docker #cicd
+          #distributedsystems #bigquery #googleanalytics #cloudcomputing
+          #agilemethodologies #scalability #datavisualization
         </Typography>
         <Box mt={3} />
         <Typography variant="body2">
