@@ -49,7 +49,7 @@ const AboutMe: React.FC = () => {
           </span>
         </Typography>
         <Typography variant="subtitle2" gutterBottom>
-          Full-stack engineer with 7+ years of experience building world
+          Full-stack engineer with 8+ years of experience building world
           changing products
         </Typography>
         <Typography variant="caption">
