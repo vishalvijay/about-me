@@ -42,23 +42,12 @@ const AboutMe: React.FC = () => {
         <Avatar alt="Vishal Vijay" src={dp} className={classes.avatar} />
         <Box mt={2} />
         <Typography variant="h3">Vishal Viay</Typography>
-        <Typography variant="subtitle1" gutterBottom>
-          No Coffee? No worries... I can still code &nbsp;
-          <span role="img" aria-label="Cool">
-            😎
-          </span>
-        </Typography>
         <Typography variant="subtitle2" gutterBottom>
-          Full-stack engineer with 8+ years of experience building world
-          changing products
-        </Typography>
-        <Typography variant="caption">
-          #rubyonrails #nodejs #reactjs #android #ruby #typescript #javascript
-          #java #kotlin #sql #mysql #postgressql #mongodb #firestore #graphql
-          #html #css #redux #nextjs #drools #firebase #aws #gcp #solr
-          #elasticsearch #redis #expressjs #webcomponent #microservices #grpc
-          #docker #cicd #distributedsystems #bigquery #googleanalytics
-          #cloudcomputing #agilemethodologies #scalability #datavisualization
+          Experienced software engineer and entrepreneur with a decade of
+          expertise in building large-scale consumer-facing products.
+          Skilled in search and ranking, full-stack software engineering
+          with a strong background in backend and frontend technologies.
+          Passionate about innovation and problem-solving. 
         </Typography>
         <Box mt={3} />
         <Typography variant="body2">
